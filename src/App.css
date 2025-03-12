@@ -1,0 +1,21 @@
+.app-container {
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+}
+
+.text-area {
+  width: 50vw;
+  height: 100vh;
+  overflow-y: auto; /* Enable vertical scrolling on container */
+  overflow-x: hidden; /* Prevent horizontal overflow */
+  box-sizing: border-box; /* Include padding in width/height */
+}
+
+.preview-area {
+  width: 50vw;
+  height: 100vh;
+  padding: 1rem;
+  box-sizing: border-box;
+  overflow-y: auto;
+}
