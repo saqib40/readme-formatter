@@ -18,10 +18,12 @@
     "dompurify": "^3.2.4",
     "github-markdown-css": "^5.8.1",
     "hast-util-to-html": "^9.0.5",
+    "lucide-react": "^0.555.0",
     "marked": "^15.0.7",
     "react": "^19.0.0",
     "react-ace": "^14.0.1",
     "react-dom": "^19.0.0",
+    "react-resizable-panels": "^3.0.6",
     "react-router-dom": "^7.3.0"
   },
   "devDependencies": {
